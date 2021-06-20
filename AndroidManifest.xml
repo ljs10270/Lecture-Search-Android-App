@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ljs10270.registeration">
+    <!-- 인터넷 접속 허용 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!--icon은 앱의 이미지가 된다. label은 앱의 이름 -->
+    <!--android:usesCleartextTraffic="true"는 안드로이드 9.0이상부터 필수다. 이게 없으면 db 접근 안된다. -->
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="한서대 강의 검색 애플리케이션"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+
+        <activity android:name="com.ljs10270.registeration.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.ljs10270.registeration.RegisterActivity" />
+        <activity android:name="com.ljs10270.registeration.MainActivity"></activity>
+    </application>
+
+</manifest>

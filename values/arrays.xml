@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--스피너안의 학과 요소 -->
+<resources>
+    <string-array name="major">
+        <item>항공소프트웨어공학과</item>
+        <item>항공산업공학과</item>
+        <item>항공기계정비학과</item>
+        <item>항공운항학과</item>
+        <item>헬리콥터조종학과</item>
+        <item>항공전자공학과</item>
+        <item>무인항공기학과(무인항공기시스템전공)</item>
+        <item>무인항공기학과(드론응용전공)</item>
+        <item>항공교통물류학과(항공교통학전공)</item>
+        <item>항공교통물류학과(물류학전공)</item>
+        <item>항공관광학과</item>
+        <item>글로벌언어협력학과(영어전공)</item>
+        <item>글로벌언어협력학과(중국전공)</item>
+        <item>글로벌언어협력학과(일본전공)</item>
+        <item>글로벌언어협력학과(국제협력전공)</item>
+        <item>인프라시스템학과(공항건축전공)</item>
+        <item>인프라시스템학과(공항토목전공)</item>
+        <item>인프라시스템학과(항공전기전공)</item>
+        <item>인프라시스템학과(항공환경전공)</item>
+        <item>항공신소재화공학과(신소재전공)</item>
+        <item>항공신소재화공학과(화학공학전공)</item>
+        <item>공항행정학과(공항홍보전공)</item>
+        <item>공항행정학과(공항행정전공)</item>
+        <item>항공컴퓨터전공</item>
+        <item>항공보안전공</item>
+        <item>물리치료학과</item>
+        <item>작업치료학과</item>
+        <item>피부미용화장품과학과</item>
+        <item>보건상담복지학과</item>
+        <item>의료복지공학과</item>
+        <item>바이오식품의과학과</item>
+        <item>방사선학과</item>
+        <item>간호학과</item>
+        <item>치위생학과</item>
+        <item>문화재보존학과</item>
+        <item>영화영상학과</item>
+        <item>미디어문예창작학과</item>
+        <item>디자인융합학과(공간디자인전공)</item>
+        <item>디자인융합학과(산업디자인전공)</item>
+        <item>디자인융합학과(시각디자인전공)</item>
+        <item>디자인융합학과(의상디자인전공)</item>
+        <item>영상애니메이션학과</item>
+        <item>실용음악과</item>
+        <item>해양바이오수산생명의학과</item>
+        <item>경호비서학과</item>
+        <item>레저해양스포츠학과</item>
+        <item>호텔카지노관광학과</item>
+    </string-array>
+
+    <string-array name="major1">
+        <item>항공소프트웨어공학과</item>
+        <item>항공산업공학과</item>
+        <item>항공기계정비학과</item>
+        <item>항공운항학과</item>
+        <item>헬리콥터조종학과</item>
+        <item>항공전자공학과</item>
+        <item>무인항공기학과(무인항공기시스템전공)</item>
+        <item>무인항공기학과(드론응용전공)</item>
+        <item>항공교통물류학과(항공교통학전공)</item>
+        <item>항공교통물류학과(물류학전공)</item>
+        <item>항공관광학과</item>
+    </string-array>
+
+    <string-array name="major2">
+        <item>글로벌언어협력학과(영어전공)</item>
+        <item>글로벌언어협력학과(중국전공)</item>
+        <item>글로벌언어협력학과(일본전공)</item>
+        <item>글로벌언어협력학과(국제협력전공)</item>
+        <item>인프라시스템학과(공항건축전공)</item>
+        <item>인프라시스템학과(공항토목전공)</item>
+        <item>인프라시스템학과(항공전기전공)</item>
+        <item>인프라시스템학과(항공환경전공)</item>
+        <item>항공신소재화공학과(신소재전공)</item>
+        <item>항공신소재화공학과(화학공학전공)</item>
+        <item>공항행정학과(공항홍보전공)</item>
+        <item>공항행정학과(공항행정전공)</item>
+        <item>항공컴퓨터전공</item>
+        <item>항공보안전공</item>
+    </string-array>
+
+    <string-array name="major3">
+        <item>물리치료학과</item>
+        <item>작업치료학과</item>
+        <item>피부미용화장품과학과</item>
+        <item>보건상담복지학과</item>
+        <item>의료복지공학과</item>
+        <item>바이오식품의과학과</item>
+        <item>방사선학과</item>
+        <item>간호학과</item>
+        <item>치위생학과</item>
+    </string-array>
+
+    <string-array name="major4">
+        <item>문화재보존학과</item>
+        <item>영화영상학과</item>
+        <item>미디어문예창작학과</item>
+        <item>디자인융합학과(공간디자인전공)</item>
+        <item>디자인융합학과(산업디자인전공)</item>
+        <item>디자인융합학과(시각디자인전공)</item>
+        <item>디자인융합학과(의상디자인전공)</item>
+        <item>영상애니메이션학과</item>
+        <item>실용음악과</item>
+    </string-array>
+
+    <string-array name="major5">
+        <item>해양바이오수산생명의학과</item>
+        <item>경호비서학과</item>
+        <item>레저해양스포츠학과</item>
+    </string-array>
+
+    <string-array name="major6">
+        <item>호텔카지노관광학과</item>
+        <item>교직과</item>
+    </string-array>
+
+    <!--스피너안의 전공,교양 구분 요소 -->
+    <string-array name="area">
+        <item>전공</item>
+        <item>교양</item>
+    </string-array>
+
+    <string-array name="areaMajor">
+        <item>항공학부</item>
+        <item>항공융합학부</item>
+        <item>보건학부</item>
+        <item>디자인-엔터미디어학부</item>
+        <item>해양-스포츠학부</item>
+        <item>융합교양학부</item>
+    </string-array>
+
+    <string-array name="areaRefinement">
+        <item>교양/교양필수</item>
+        <item>OCU/Cyber</item>
+    </string-array>
+
+    <string-array name="lectureRefinement">
+        <item>1영역(심미적)</item>
+        <item>2영역(인간과 문화)</item>
+        <item>3영역(인문학)</item>
+        <item>4영역(과학기술)</item>
+        <item>5영역(세상)</item>
+        <item>교양필수</item>
+    </string-array>
+
+    <string-array name="lectureCyber">
+        <item>Cyber</item>
+        <item>OCU</item>
+    </string-array>
+</resources>
