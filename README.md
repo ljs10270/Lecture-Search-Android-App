@@ -13,6 +13,8 @@ Android Studio에서 Java로 개발하였으며 PHP를 활용해 phpMyadmin(MySQ
 - 통신 방식과 활용 프로토콜: AsyncTask, JSON, FTP, HTTP POST
 
 2. 웹 호스팅(cafe24)
+
+
 ![image](https://user-images.githubusercontent.com/59761622/130316983-48ba3b65-f604-45be-bb84-b509998e37f2.png)
 
 ![image](https://user-images.githubusercontent.com/59761622/130316989-2b57613c-cb5c-40e6-a5d0-d1ae4e66d079.png)
