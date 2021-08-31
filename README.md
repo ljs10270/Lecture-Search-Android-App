@@ -6,7 +6,7 @@ Android Studio에서 Java로 개발하였으며 PHP를 활용해 phpMyadmin(MySQ
 
 1. 개발 환경 및 사용 도구와 패턴
 - IDE: Android Studio
-- 개발 언어: Java, XML, PHP
+- 개발 언어: Java, XML, PHP, SQL
 - DBMS: phpMyadmin(MySQL)
 - 배포: Google Play Store
 - 디자인 패턴: 어댑터 패턴(Adapter pattern)
